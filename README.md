@@ -1,6 +1,6 @@
 # RTA-Project (Stackoverflow / stackexchange data analysis)
 
-https://sebkaz-teaching.github.io/RealTimeEN/
+Class Link https://sebkaz-teaching.github.io/RealTimeEN/
 
 Final project for Real Time Anasis in Warsaw School of Economics
 
@@ -15,6 +15,7 @@ Do all environment on docker
 
 ### Data
 https://www.alphavantage.co/documentation/
+
 https://rapidapi.com/blog/best-stock-api/
 
 
